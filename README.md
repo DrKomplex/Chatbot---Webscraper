@@ -4,3 +4,4 @@ Der Webscraper teilt den Inhalt in 4 Kategorien auf: subdomain, title, link, con
 Der Link, der Grade benutzt wird, wird automatisch eingetragen sowie die subdomain des Linkes (um ziwschen verschiedenen Fachbereichen zu unterscheiden).
 Nur der Inhalt der unter dem HTML-Element "mainContent" steht, wird kopiert und unter "content" eingetragen.
 Überschriften die unter dem HTML-Element "h1" stehen, werden als Titel benutzt und unter "titel" eingetragen.
+Es wird eine neue Textdatei erstellt mit dem Namen "chatbot_data.txt". Diese enthält die benötigten Informationen für den Chatbot.
